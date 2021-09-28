@@ -49,11 +49,11 @@ function showWeatherData(data){
     </div>
     <div class="weather-item">
         <p>Pressure</p>
-        <p>${pressure}hPa</p>
+        <p>${pressure} hPa</p>
     </div>
     <div class="weather-item">
         <p>Wind Speed</p>
-        <p>${wind_speed}m/s</p>
+        <p>${wind_speed} m/s</p>
     </div>
     <div class="weather-item">
         <p>Sunrise</p>
